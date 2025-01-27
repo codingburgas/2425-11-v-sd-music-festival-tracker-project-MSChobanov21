@@ -1,0 +1,11 @@
+C:\Users\MSChobanov21\RiderProjects\Festival\Festival.Shared\bin\Debug\net8.0\Festival.Shared.deps.json
+C:\Users\MSChobanov21\RiderProjects\Festival\Festival.Shared\bin\Debug\net8.0\Festival.Shared.dll
+C:\Users\MSChobanov21\RiderProjects\Festival\Festival.Shared\bin\Debug\net8.0\Festival.Shared.pdb
+C:\Users\MSChobanov21\RiderProjects\Festival\Festival.Shared\obj\Debug\net8.0\Festival.Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MSChobanov21\RiderProjects\Festival\Festival.Shared\obj\Debug\net8.0\Festival.Shared.AssemblyInfoInputs.cache
+C:\Users\MSChobanov21\RiderProjects\Festival\Festival.Shared\obj\Debug\net8.0\Festival.Shared.AssemblyInfo.cs
+C:\Users\MSChobanov21\RiderProjects\Festival\Festival.Shared\obj\Debug\net8.0\Festival.Shared.csproj.CoreCompileInputs.cache
+C:\Users\MSChobanov21\RiderProjects\Festival\Festival.Shared\obj\Debug\net8.0\Festival.Shared.dll
+C:\Users\MSChobanov21\RiderProjects\Festival\Festival.Shared\obj\Debug\net8.0\refint\Festival.Shared.dll
+C:\Users\MSChobanov21\RiderProjects\Festival\Festival.Shared\obj\Debug\net8.0\Festival.Shared.pdb
+C:\Users\MSChobanov21\RiderProjects\Festival\Festival.Shared\obj\Debug\net8.0\ref\Festival.Shared.dll

@@ -1,0 +1,57 @@
+﻿@page "/signup"
+@using Festival.DAL.Models;
+@using System.ComponentModel.DataAnnotations;
+
+
+<PageTitle>Sign Up</PageTitle>
+
+<h1>Sign Up</h1>
+
+<EditForm Model="new SignUpModel()" OnValidSubmit="HandleValidSubmit">
+    <DataAnnotationsValidator />
+    <ValidationSummary />
+
+    <div class="form-group">
+        <label for="Email">Email:</label>
+        <InputText id="Email" @bind-Value="SignUpModel.Email" class="form-control" />
+        <ValidationMessage For="@(() => SignUpModel.Email)" />
+    </div>
+
+    <div class="form-group">
+        <label for="Password">Password:</label>
+        <InputText type="password" id="Password" @bind-Value="SignUpModel.Password" class="form-control" />
+        <ValidationMessage For="@(() => SignUpModel.Password)" />
+    </div>
+
+    <div class="form-group">
+        <label for="ConfirmPassword">Confirm Password:</label>
+        <InputText type="password" id="ConfirmPassword" @bind-Value="SignUpModel.ConfirmPassword" class="form-control" />
+        <ValidationMessage For="@(() => SignUpModel.ConfirmPassword)" />
+    </div>
+
+    <button type="submit" class="btn btn-primary">Sign Up</button>
+</EditForm>
+
+@code {
+    public class SignUpModel
+    {
+        [Required]
+        [EmailAddress]
+        public static string Email { get; set; }
+
+        [Required]
+        [StringLength(100, MinimumLength = 6)]
+        public static string Password { get; set; }
+
+        [Compare("Password")]
+        public static string ConfirmPassword { get; set; }
+    }
+
+    private SignUpModel _model = new SignUpModel();
+
+    private void HandleValidSubmit()
+    {
+        // Handle successful sign-up here (e.g., send email verification, store user information)
+        Console.WriteLine("Sign-up successful!");
+    }
+}

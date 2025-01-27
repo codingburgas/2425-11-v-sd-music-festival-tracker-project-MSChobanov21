@@ -1,0 +1,15 @@
+C:\Users\MSChobanov21\RiderProjects\Festival\Festival.BLL\bin\Debug\net8.0\Festival.BLL.deps.json
+C:\Users\MSChobanov21\RiderProjects\Festival\Festival.BLL\bin\Debug\net8.0\Festival.BLL.dll
+C:\Users\MSChobanov21\RiderProjects\Festival\Festival.BLL\bin\Debug\net8.0\Festival.BLL.pdb
+C:\Users\MSChobanov21\RiderProjects\Festival\Festival.BLL\bin\Debug\net8.0\Festival.DAL.dll
+C:\Users\MSChobanov21\RiderProjects\Festival\Festival.BLL\bin\Debug\net8.0\Festival.DAL.pdb
+C:\Users\MSChobanov21\RiderProjects\Festival\Festival.BLL\obj\Debug\net8.0\Festival.BLL.csproj.AssemblyReference.cache
+C:\Users\MSChobanov21\RiderProjects\Festival\Festival.BLL\obj\Debug\net8.0\Festival.BLL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MSChobanov21\RiderProjects\Festival\Festival.BLL\obj\Debug\net8.0\Festival.BLL.AssemblyInfoInputs.cache
+C:\Users\MSChobanov21\RiderProjects\Festival\Festival.BLL\obj\Debug\net8.0\Festival.BLL.AssemblyInfo.cs
+C:\Users\MSChobanov21\RiderProjects\Festival\Festival.BLL\obj\Debug\net8.0\Festival.BLL.csproj.CoreCompileInputs.cache
+C:\Users\MSChobanov21\RiderProjects\Festival\Festival.BLL\obj\Debug\net8.0\Festival.151431AF.Up2Date
+C:\Users\MSChobanov21\RiderProjects\Festival\Festival.BLL\obj\Debug\net8.0\Festival.BLL.dll
+C:\Users\MSChobanov21\RiderProjects\Festival\Festival.BLL\obj\Debug\net8.0\refint\Festival.BLL.dll
+C:\Users\MSChobanov21\RiderProjects\Festival\Festival.BLL\obj\Debug\net8.0\Festival.BLL.pdb
+C:\Users\MSChobanov21\RiderProjects\Festival\Festival.BLL\obj\Debug\net8.0\ref\Festival.BLL.dll

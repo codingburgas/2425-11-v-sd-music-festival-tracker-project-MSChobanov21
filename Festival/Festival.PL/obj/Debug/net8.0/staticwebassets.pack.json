@@ -1,0 +1,61 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\MSChobanov21\\RiderProjects\\Festival\\Festival.PL\\bin\\Debug\\net8.0\\wwwroot\\_framework\\blazor.webassembly.js",
+      "PackagePath": "staticwebassets\\_framework\\blazor.webassembly.js"
+    },
+    {
+      "Id": "C:\\Users\\MSChobanov21\\RiderProjects\\Festival\\Festival.PL\\obj\\Debug\\net8.0\\compressed\\g9v88wn8ha.gz",
+      "PackagePath": "staticwebassets\\_framework\\blazor.webassembly.js.gz"
+    },
+    {
+      "Id": "C:\\Users\\MSChobanov21\\RiderProjects\\Festival\\Festival.PL\\obj\\Debug\\net8.0\\scopedcss\\bundle\\Festival.PL.styles.css",
+      "PackagePath": "staticwebassets\\Festival.PL.styles.css"
+    },
+    {
+      "Id": "C:\\Users\\MSChobanov21\\RiderProjects\\Festival\\Festival.PL\\wwwroot\\css\\app.css",
+      "PackagePath": "staticwebassets\\css\\app.css"
+    },
+    {
+      "Id": "C:\\Users\\MSChobanov21\\RiderProjects\\Festival\\Festival.PL\\wwwroot\\css\\bootstrap\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\MSChobanov21\\RiderProjects\\Festival\\Festival.PL\\wwwroot\\css\\bootstrap\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\MSChobanov21\\RiderProjects\\Festival\\Festival.PL\\wwwroot\\favicon.png",
+      "PackagePath": "staticwebassets\\favicon.png"
+    },
+    {
+      "Id": "C:\\Users\\MSChobanov21\\RiderProjects\\Festival\\Festival.PL\\wwwroot\\icon-192.png",
+      "PackagePath": "staticwebassets\\icon-192.png"
+    },
+    {
+      "Id": "C:\\Users\\MSChobanov21\\RiderProjects\\Festival\\Festival.PL\\wwwroot\\index.html",
+      "PackagePath": "staticwebassets\\index.html"
+    },
+    {
+      "Id": "C:\\Users\\MSChobanov21\\RiderProjects\\Festival\\Festival.PL\\wwwroot\\sample-data\\weather.json",
+      "PackagePath": "staticwebassets\\sample-data\\weather.json"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.Festival.PL.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.Festival.PL.props",
+      "PackagePath": "build\\Festival.PL.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.Festival.PL.props",
+      "PackagePath": "buildMultiTargeting\\Festival.PL.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.Festival.PL.props",
+      "PackagePath": "buildTransitive\\Festival.PL.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

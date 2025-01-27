@@ -1,0 +1,12 @@
+C:\Users\MSChobanov21\RiderProjects\Festival\Festival.DAL\bin\Debug\net8.0\Festival.DAL.deps.json
+C:\Users\MSChobanov21\RiderProjects\Festival\Festival.DAL\bin\Debug\net8.0\Festival.DAL.dll
+C:\Users\MSChobanov21\RiderProjects\Festival\Festival.DAL\bin\Debug\net8.0\Festival.DAL.pdb
+C:\Users\MSChobanov21\RiderProjects\Festival\Festival.DAL\obj\Debug\net8.0\Festival.DAL.csproj.AssemblyReference.cache
+C:\Users\MSChobanov21\RiderProjects\Festival\Festival.DAL\obj\Debug\net8.0\Festival.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MSChobanov21\RiderProjects\Festival\Festival.DAL\obj\Debug\net8.0\Festival.DAL.AssemblyInfoInputs.cache
+C:\Users\MSChobanov21\RiderProjects\Festival\Festival.DAL\obj\Debug\net8.0\Festival.DAL.AssemblyInfo.cs
+C:\Users\MSChobanov21\RiderProjects\Festival\Festival.DAL\obj\Debug\net8.0\Festival.DAL.csproj.CoreCompileInputs.cache
+C:\Users\MSChobanov21\RiderProjects\Festival\Festival.DAL\obj\Debug\net8.0\Festival.DAL.dll
+C:\Users\MSChobanov21\RiderProjects\Festival\Festival.DAL\obj\Debug\net8.0\refint\Festival.DAL.dll
+C:\Users\MSChobanov21\RiderProjects\Festival\Festival.DAL\obj\Debug\net8.0\Festival.DAL.pdb
+C:\Users\MSChobanov21\RiderProjects\Festival\Festival.DAL\obj\Debug\net8.0\ref\Festival.DAL.dll
