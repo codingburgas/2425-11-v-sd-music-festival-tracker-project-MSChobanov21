@@ -1,7 +1,7 @@
 {
   "mainAssemblyName": "Festival.PL",
   "resources": {
-    "hash": "sha256-c1KKl6bNXsFCLu9zghRpGfX5OtRs8duO7+XBttU9jNc=",
+    "hash": "sha256-XZ4KN7zB2wB2vEAwX4JjFRa9uhdnfoIJShRfFLbH1VY=",
     "jsModuleNative": {
       "dotnet.native.8.0.8.qyo02f0lmf.js": "sha256-juC5sA7gHTLXFEhAKgdM2/RavswpwCtDfjYGsAz2FXg="
     },
@@ -238,11 +238,11 @@
       "netstandard.wasm": "sha256-jMTqIQzoDS810lyhZpMO5eEC36EzntXqSVn+2qwkOMQ=",
       "System.Private.CoreLib.wasm": "sha256-NFj5WE5VLP2LptZIRJCUIc1AMk06FmxpsSILfPISwAw=",
       "Festival.DAL.wasm": "sha256-pIpYz/EPWX3H0TiWhLLLAI7vNKNOYG/eNw4xIhzrb0Y=",
-      "Festival.PL.wasm": "sha256-6PDG2fW67+O27K/veoAptfYgxsjhdAq9smcGDE88qzE="
+      "Festival.PL.wasm": "sha256-2/GOz3Ensl/h//JqyGo9RNcQGlD71pKo5DjXjf6tVnk="
     },
     "pdb": {
       "Festival.DAL.pdb": "sha256-rhJ7TOZYd2PrLR1LLDpSDOr+A/CQ3clgoX/paFVDt28=",
-      "Festival.PL.pdb": "sha256-Iizve3D0Yo05CgOPx2ZMC/PKwxFeJpMjiohOheAZfks="
+      "Festival.PL.pdb": "sha256-QRlnhThMIgQYug50XNrw2bW0N6Y0JRvlKMV6txws3wg="
     }
   },
   "cacheBootResources": true,
